@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Payload-MADS-PCB\Altium\2017_MADS.PcbDoc
+Date     : 26/02/2017
+Time     : 5:34:16 PM
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=100mm) (Prefered=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetP7_2 Between Pad P7-2(70.321mm,4mm) on Multi-Layer And Pad P8-2(80.75mm,4mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetP4_2 Between Pad P5-2(39.036mm,4mm) on Multi-Layer And Pad P4-2(49.464mm,4mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetP4_2 Between Pad P4-2(49.464mm,4mm) on Multi-Layer And Pad P6-2(59.893mm,4mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetP1_2 Between Pad P2-2(7.75mm,4mm) on Multi-Layer And Pad P1-2(18.179mm,4mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetP1_2 Between Pad P1-2(18.179mm,4mm) on Multi-Layer And Pad P3-2(28.607mm,4mm) on Multi-Layer 
+Rule Violations :5
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.25mm) (Conductor Width=0.25mm) (Air Gap=0.25mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=10mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Time Elapsed        : 00:00:01
