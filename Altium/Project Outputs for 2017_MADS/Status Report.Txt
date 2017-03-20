@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [2017_MADS.PrjPcb]
+   Generated File[2017_MADS-Plated.TXT]
+   Generated File[2017_MADS-NonPlated.TXT]
+   Generated File[2017_MADS.LDP]
+   Generated File[2017_MADS.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:41:24 PM On 19/03/2017

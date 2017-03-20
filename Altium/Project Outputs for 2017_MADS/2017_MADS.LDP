@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Payload-MADS-PCB\Altium\2017_MADS.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=2017_mads-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=2017_mads-nonplated.txt|DrillLayers=gtl,gbl

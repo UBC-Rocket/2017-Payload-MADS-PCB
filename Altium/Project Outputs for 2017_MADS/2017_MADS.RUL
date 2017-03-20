@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\thekenu\Documents\UBC(GitHub)\UBC Rocket\2017-Payload-MADS-PCB\Altium\2017_MADS.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

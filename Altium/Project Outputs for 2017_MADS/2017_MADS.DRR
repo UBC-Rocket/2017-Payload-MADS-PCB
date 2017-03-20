@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 2017_MADS.PcbDoc   19/03/2017  10:41:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 2017_MADS-Plated.TXT
+ASCII Non-Plated RoundHoles File : 2017_MADS-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      1.02mm (40mil)                                            Round             4         PTH        12.70mm (0.50inch)
+T2      1.05mm (41mil)                                            Round             8         PTH        32.15mm (1.27inch)
+T3      1.6mm (63mil)                                             Round             4         PTH        28.65mm (1.13inch)
+T4      2.3mm (91mil)                                             Round             2         PTH        8.50mm (0.33inch)
+T5      2.845mm (112mil)                                          Round             4         PTH        90.50mm (3.56inch)
+T6      3.2mm (126mil)                                            Round             2         NPTH       9.15mm (0.36inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              24
+
+Total Processing Time (hh:mm:ss) : 00:00:00
