@@ -2,13 +2,15 @@
 FileName = 2017_MADS.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : 2017_MADS.GTL
+Generating : Top Solder
+      File : 2017_MADS.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Top Layer
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Multi-Layer
 
 
@@ -22,13 +24,15 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : 2017_MADS.GBL
+Generating : Bottom Solder
+      File : 2017_MADS.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
 
     Adding Layer      : Bottom Layer
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Multi-Layer
 
 
@@ -39,32 +43,5 @@ Used DCodes :
     D13
     D14
     D15
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : 2017_MADS.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : 2017_MADS.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
 *************************************************************
 
