@@ -166,50 +166,58 @@ DocumentPath=Project Outputs for 2017_MADS\2017_MADS-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.DRR
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.EXTREP
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GBL
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GBS
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GM1
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GTL
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GTO
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GTS
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.LDP
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.REP
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for 2017_MADS\2017_MADS.RUL
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for 2017_MADS\2017_MADS.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for 2017_MADS\Design Rule Check - 2017_MADS.html
 DItemRevisionGUID=
 
@@ -575,7 +583,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Canon MG2900 series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -583,6 +591,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1674|FormHeight=1164|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=57|Description=57|Designator=57|Footprint=57|LibRef=57|Quantity=57
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -603,6 +623,8 @@ OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType6=SinglePinNetReporter
 OutputName6=Report Single Pin Nets
 OutputDocumentPath6=

@@ -1,0 +1,11 @@
+"Bill of Material for "
+"On 29/03/2017 at 2:04:37 PM"
+
+"Comment","Pattern","Quantity","Components"
+
+"A","Molex 1722861102","1","P1","ULTRAFIT CONN HDR 02CKT"
+"A1","Molex 1722861102","1","P4","ULTRAFIT CONN HDR 02CKT"
+"B","Molex 1722861102","1","P2","ULTRAFIT CONN HDR 02CKT"
+"B1/C1","Molex 1722991104","1","P5","ULTRAFIT VERT TIN PLATED BLK"
+"C","Molex 1722861102","1","P3","ULTRAFIT CONN HDR 02CKT"
+"SW-SPST","Screw Switch","2","S1, S2","Single-Pole, Single-Throw Switch"

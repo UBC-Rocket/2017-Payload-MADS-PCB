@@ -1,14 +1,9 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [2017_MADS.PrjPcb]
-   Generated File[2017_MADS.GTS]
-   Generated File[2017_MADS.GBS]
-   Generated File[2017_MADS.RUL]
-   Generated File[2017_MADS.EXTREP]
-   Generated File[2017_MADS.REP]
 
 
-Files Generated   : 5
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 5:12:02 PM On 20/03/2017
+Finished Output Generation At 2:25:26 PM On 29/03/2017
